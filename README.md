@@ -1,7 +1,7 @@
 # Intravital_Imaging_Macro
 
 ## Overview
-The Intravital Imaging Macro is a Fiji Macro which automates the "Spectral_Unmixing" Plugin by Joachim Walter and combines it with "Fast4DReg" by Joanna W.Pylvänäinen.
+The Intravital Imaging Macro is a Fiji Macro which automates the "Spectral_Unmixing" Plugin by Joachim Walter and combines it with "Fast4DReg" by Joanna W.Pylvänäinen et al..
 
 In intravital image analysis, correction for spectral bleedthrough between different colour channels and drift correction are commonly applied. To unite these two steps into one workflow I implemented the [Spectral_Unmixing](https://imagej.net/ij/plugins/spectral-unmixing.html) Plugin by Joachim Walter as well as the [Fast4DReg](https://imagej.net/plugins/fast4dreg) Plugin by Joanna W. Pylvänäinen et al. into this Macro.
 
