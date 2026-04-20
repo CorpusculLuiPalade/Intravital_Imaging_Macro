@@ -33,3 +33,9 @@ Choose which 2 channels you would like to unmix.
 **Step 3: Fast4DReg**
 ![image](images/Macro_3.png)
 The UI is a modification of the UI of the "time estimate+apply.ijm" Macro of the Fast4DReg Plugin.
+
+
+
+
+Spectral Unmixing Automatisation.
+Fast4DReg Drift Correction.
