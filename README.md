@@ -10,6 +10,9 @@ In intravital image analysis, correction for spectral bleedthrough between diffe
  - **Spectral_Unmixing** [(Download)](https://imagej.net/ij/plugins/spectral-unmixing.html)
  - **Fast4DReg** [(Download)](https://imagej.net/plugins/fast4dreg#installation)
 
+## Installation
+Download the "Intravital_Imaging_Macro.ijm" file and drag it in the ImageJ Macro folder
+
 ## Walkthrough
 The need for an automation was mostly apparent for the Spectral Unmixing Plugin, which if you work with long timelapses can take up a lot of time, since all timepoints have to be unmixed seperately. The Macro iterates through all timepoints of the video, seperately applying the Unmixing Matrix to each one and concatenateing them back together. 
 The user is expected, before running the macro, to have the unmixing matrix already calculated. 
